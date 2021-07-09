@@ -1,5 +1,9 @@
 # Google-Assistant-Interactive-Canvas
-
+* Vue CLI
+* Node.js
+* Firebase
+* Interactive Canvas
+* Actions on Google
 
 ![Variable Declaration](/img/ai1.jpg)
 ![Variable Declaration](/img/ai2.jpg)
