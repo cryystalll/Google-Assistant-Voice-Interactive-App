@@ -24,6 +24,7 @@ npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ![Variable Declaration](/img/ai1.jpg)
 ![Variable Declaration](/img/ai2.jpg)
