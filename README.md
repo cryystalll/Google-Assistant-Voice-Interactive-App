@@ -1,29 +1,25 @@
 # Google-Assistant-Interactive-Canvas
-## Main
-* Vue CLI
-* Node.js
-* Firebase
-* Interactive Canvas
-* Actions on Google
+## Introduction
+```
+A animated application based on Google Assistant service that can interactive with users. 
+The Game Scenes were build by Vue CLI and Node.js backend and deployed on Firebase.
+Include special effects made by JavaScript Interactive Canvas.
+Launched with Actions on Google.
+```
+<div align=center><img src="/img/ai1.jpg" alt="Cover" width="50%"/></div>
 
 ![Variable Declaration](/img/ai1.jpg)
 ![Variable Declaration](/img/ai2.jpg)
 
-## Project setup
+### Project Compiles and hot-reloads for development
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
-```
-```
 firebase deploy
 ```
 
